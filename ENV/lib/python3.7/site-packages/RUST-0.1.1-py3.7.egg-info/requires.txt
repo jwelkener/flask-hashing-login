@@ -1,0 +1,4 @@
+matplotlib
+biopython
+pysam
+mock<=1.0.1
